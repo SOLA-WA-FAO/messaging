@@ -5,12 +5,12 @@
     <parent>
         <artifactId>sola-admin-main</artifactId>
         <groupId>org.fao.sola.admin</groupId>
-        <version>1504a</version>
+        <version>2024a</version>
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <groupId>org.fao.sola.admin.common</groupId>
     <artifactId>sola-admin-messaging</artifactId>
-    <version>1504a</version>
+    <version>2024a</version>
     <packaging>jar</packaging>
 
     <name>Common Admin Messaging</name>
@@ -25,8 +25,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
-                    <source>1.5</source>
-                    <target>1.5</target>
+                    <source>1.6</source>
+                    <target>1.6</target>
                 </configuration>
             </plugin>
         </plugins>

@@ -64,7 +64,7 @@ public class MessageUtility {
     private static final String ERR_NUM_SUFFIX = ".errornumber";
     private static final String MSG_TYPE_DESCRIPTION = "type.description.";
     private static final String DIALOG_OPTIONS = "dialog.options.";
-    private static final String SERVICES_MSG_BUNDLE = "org/sola/messages/service/Bundle";
+    private static final String SERVICES_MSG_BUNDLE = "org/sola/cs/messages/service/Bundle";
     private static final String CLIENTS_MSG_BUNDLE = "org/sola/messages/client/Bundle";
     private static final String GIS_MSG_BUNDLE = "org/sola/messages/gis/Bundle";
     private static int MAX_LINE_LENGHT = 80;
